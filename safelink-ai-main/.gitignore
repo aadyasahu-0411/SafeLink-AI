@@ -1,0 +1,8 @@
+venv/
+*.pyc
+__pycache__/
+serviceAccountKey.json
+data/  
+.vscode/
+model.pkl
+vectorizer.pkl
